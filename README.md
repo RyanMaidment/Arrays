@@ -1,2 +1,2 @@
-# Lab2
+# Arrays
 Learning arrays in Java
